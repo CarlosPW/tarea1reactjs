@@ -1,0 +1,6 @@
+.container-homepage {
+	display: flex;
+	height: 80vh;
+	justify-content: space-evenly;
+	align-items: center;
+}
